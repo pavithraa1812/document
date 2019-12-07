@@ -23,3 +23,5 @@ Step 5: Goto cmd OR terminal OR git bash
    git push -u “url” master
 
 Step 6: Check project (files) added on GitLab
+
+step 7: stop
